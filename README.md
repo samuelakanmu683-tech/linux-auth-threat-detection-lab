@@ -1,6 +1,8 @@
 # SOC Sentinel — Linux Authentication Threat Detection Lab
 
-> A Python-based security monitoring and detection engineering lab for identifying suspicious Linux authentication activity.
+[![SOC Sentinel Tests](https://github.com/samuelakanmu683-tech/linux-auth-threat-detection-lab/actions/workflows/python-app.yml/badge.svg)](https://github.com/samuelakanmu683-tech/linux-auth-threat-detection-lab/actions/workflows/python-app.yml)
+
+> A Python-based SOC investigation lab for detecting and triaging suspicious Linux authentication activity through detection engineering and automated testing.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Security](https://img.shields.io/badge/Focus-SOC%20%7C%20Detection%20Engineering-red)
