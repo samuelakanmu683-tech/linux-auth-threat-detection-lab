@@ -91,7 +91,7 @@ linux-auth-threat-detection-lab/
 ├── README.md
 └── requirements.txt
 
-# Technologies
+Technologies
 Python
 Linux authentication log analysis
 Detection engineering
